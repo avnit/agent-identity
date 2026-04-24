@@ -1,7 +1,7 @@
 # Data Retention Policy
 
 ## Purpose
-Defines how long ASB Solutions Group retains different classes of data, and
+Defines how long Fake company retains different classes of data, and
 when and how that data is disposed of.
 
 ## Retention schedule
