@@ -1,6 +1,6 @@
 # Policy Agent — ADK + Agent Identity + Gemini Enterprise
 
-This is a sample for the CE  offsite planned on April 29th 2026 ar Austin TX 
+This is a sample for the CE  offsite planned on April 29th 2026 at Austin TX 
 
 An end-to-end reference implementation of a **Google Agent Development Kit
 (ADK)** agent that:
