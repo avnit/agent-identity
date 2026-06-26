@@ -68,6 +68,7 @@ def main() -> None:
         "adkAgentDefinition": {
             "provisionedReasoningEngine": {
                 "reasoningEngine": reasoning_engine,
+                "enableA2a": True,
             },
         },
     }

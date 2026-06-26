@@ -296,7 +296,8 @@ with body:
   "description": "Answers questions about internal policies from GCS.",
   "adkAgentDefinition": {
     "provisionedReasoningEngine": {
-      "reasoningEngine": "projects/.../reasoningEngines/..."
+      "reasoningEngine": "projects/.../reasoningEngines/...",
+      "enableA2a": true
     }
   }
 }
